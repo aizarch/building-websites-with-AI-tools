@@ -1,4 +1,4 @@
-# Building Websites and Apps With AI Tools
+# 🚀 Building Websites and Apps With AI Tools
 
 Have you ever had brilliant ideas sitting in your Notes app that never became reality? This guide will help you transform those ideas into working products, starting from zero.
 
@@ -7,6 +7,25 @@ Have you ever had brilliant ideas sitting in your Notes app that never became re
 This guide is designed for developers with some experience—whether you're mid-level, senior, or an ambitious junior willing to learn. Why? Because you need to understand and critically evaluate what the AI suggests. AI is a powerful tool that helps us reach our goals faster, but it doesn't replace our judgment and expertise (at least not yet).
 
 With AI tools, you can quickly create the skeleton of a website or app, but you can also take it all the way to production level. The key is knowing how to guide the AI effectively and validate its output.
+
+### 📊 The Complete Workflow
+``` mermaid
+graph TB
+    A[💡 Idea & Features List] --> B[📝 Functional Analysis with AI]
+    B --> C[🎨 Generate Mockups in Stitch]
+    C --> D[📦 Export & Organize Mockups]
+    D --> E[🗂️ Create GitHub Repository]
+    E --> F[💻 Initialize Claude Code]
+    F --> G[🔨 Iterative Development]
+    G --> H{✅ Review Code}
+    I --> G
+    H -->|Issues Found| I[📋 Provide Feedback]
+    H -->|Looks Good| J[🔄 Re-initialize Context]
+    J --> K{More Features?}
+    K -->|Yes| G
+    K -->|No| L[🧪 Testing & QA]
+    L --> M[🚀 Deploy to Production]
+```
 
 ## Core Principles
 
@@ -36,7 +55,7 @@ that includes user stories, technical requirements, and a feature
 breakdown suitable for development?
 ```
 
-## Mockups and Sketches
+## 🎨 Mockups and Sketches
 
 There are two approaches to creating mockups:
 
@@ -145,7 +164,7 @@ This is where your role as a developer becomes crucial:
    ```
    This refreshes Claude's understanding of your project, ensuring it has the right context for new features or bug fixes
 
-## Quality Control and Best Practices
+## ✅ Quality Control and Best Practices
 
 ### Code Review Checklist
 
@@ -167,7 +186,7 @@ This is where your role as a developer becomes crucial:
 - Ask Claude Code to generate tests alongside implementation
 - Manually test user flows and interactions
 
-## Common Pitfalls to Avoid
+## ⚠️ Common Pitfalls to Avoid
 
 1. **Accepting code blindly**: Always review and understand AI suggestions
 
@@ -179,7 +198,7 @@ This is where your role as a developer becomes crucial:
 
 5. **Not iterating on feedback**: If something isn't quite right, give specific feedback and ask for improvements
 
-## Tips for Success
+## 💪🏻 Tips for Success
 
 - **Be specific in your prompts**: Vague requests lead to vague results
 - **Break down complex features**: Tackle one piece at a time
@@ -187,7 +206,7 @@ This is where your role as a developer becomes crucial:
 - **Save successful patterns**: When you find prompts or approaches that work well, document them
 - **Stay involved**: Your expertise guides the AI; don't become a passive observer
 
-## What's Next?
+## 🎉 What's Next?
 
 Once you have a working product:
 
